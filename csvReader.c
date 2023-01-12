@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "student_functions.h"
+#include "csvReader.h"
 
 /* This function takes a string as input and removes 
  * leading and trailing whitespace including spaces
